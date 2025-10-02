@@ -2,8 +2,8 @@ import React from "react";
 import campusMapImage from "../assets/Campus.jpg";
 import { markers } from "../data/markers"; // Use your markers data
 
-const imageWidth = 1801;
-const imageHeight = 998;
+const imageWidth = 8192;
+const imageHeight = 4000;
 
 const Mappage = () => {
   // Convert pixel coordinates to percentages for responsiveness
