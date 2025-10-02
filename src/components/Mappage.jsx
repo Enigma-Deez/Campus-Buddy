@@ -1,5 +1,5 @@
 import React from "react";
-import campusMapImage from "../assets/Campus.png";
+import campusMapImage from "../assets/Campus.jpg";
 import { markers } from "../data/markers"; // Use your markers data
 
 const imageWidth = 1801;
